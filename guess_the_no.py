@@ -1,4 +1,4 @@
-                                     # Guess the Number
+    # Guess the Number
 n = int(18)
 iterations = int(0)
 guess =int(10)
